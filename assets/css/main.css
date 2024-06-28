@@ -2088,7 +2088,7 @@ input, select, textarea {
     
   }
 }
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 601px) { 
   #bandlogo {
     width:70%;
     margin-left:5%;
